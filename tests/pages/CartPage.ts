@@ -29,4 +29,11 @@ export class CartPage{
             await removeButtons.first().click();
         }
     }
+
+    /** 
+     * Start the checkout process, by clicking on the checkout button
+    */
+    async clickCheckoutButton() {
+        this.checkoutButton.click()
+    }
 }
