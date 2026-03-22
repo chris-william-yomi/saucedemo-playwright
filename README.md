@@ -53,7 +53,7 @@ End-to-end test automation framework for [Sauce Demo](https://www.saucedemo.com/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/saucedemo-playwright.git
+git clone https://github.com/chris-william-yomi/saucedemo-playwright.git
 cd saucedemo-playwright
 ```
 
